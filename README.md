@@ -1,6 +1,6 @@
 Hi, I’m @HenrikDueholm
 
-I'm CLA and I've been working with LabVIEW since 2011. 
+I'm a CLA and I've been working with LabVIEW since 2011. 
 The earlist version I've worked on was LabVIEW 6, but I've spent most of my time in the four digit versions.
 
 
